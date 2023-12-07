@@ -1,0 +1,17 @@
+.homepage_navbar {
+  background-color: grey;
+  padding: 20px;
+  color: white;
+  font-size: 24px;
+}
+.homepage_trends {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+.homepage_trends_input > * > label {
+  margin-right: 10px;
+}
+.homepage_trends_input > * {
+  margin-bottom: 10px;
+}
